@@ -1,5 +1,5 @@
 # Data-analytics
-Portfolio for my career as data analyst
+Portfolio for my career as data scientist
 
 # Projects
 
