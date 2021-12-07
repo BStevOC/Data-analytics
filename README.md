@@ -1,4 +1,4 @@
-# Data-analytics
+# Portfolio
 Portfolio for my career as data scientist
 
 # Projects
