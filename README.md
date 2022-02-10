@@ -8,4 +8,6 @@ Portfolio for my career as data scientist
 * [The GitHub History of the Scala Language](https://app.datacamp.com/workspace/w/d374c4d3-7c9d-4e42-9dfb-7bad97eb4def)
 * [A Visual History of Nobel Prize Winners](https://app.datacamp.com/workspace/w/1397f670-54d6-4d35-ba0c-2e4650aa6e58)
 
+# Machine learning
 
+* [Credit Card Fraud Detection] (https://www.kaggle.com/stevoc/credit-card-fraud-detection?scriptVersionId=87430191)
