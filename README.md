@@ -11,3 +11,4 @@ Portfolio for my career as data scientist
 # Machine learning
 
 * [Credit Card Fraud Detection](https://www.kaggle.com/stevoc/credit-card-fraud-detection)
+* [Customer Segmentation](https://www.kaggle.com/stevoc/customer-segmentation)
