@@ -12,3 +12,8 @@ Portfolio for my career as data scientist
 
 * [Credit Card Fraud Detection](https://www.kaggle.com/stevoc/credit-card-fraud-detection)
 * [Customer Segmentation](https://www.kaggle.com/stevoc/customer-segmentation)
+
+# Data Viz
+
+* [Valor agregado bruto MX](https://bsteve.shinyapps.io/economia/)
+* [Indicadores de nómina](https://bsteve.shinyapps.io/we-ai001/)
