@@ -1,7 +1,7 @@
 # Portfolio
 Portfolio for my career as data scientist
 
-# Guided Projects
+# Data Analytics
 
 * [The Android App Market on Google Play](https://app.datacamp.com/workspace/w/b6b260a1-b98a-4f58-add3-a43eb34c1fbd)
 * [Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/workspace/w/23d41745-3367-48ec-8f78-036820c1320a)
@@ -12,6 +12,7 @@ Portfolio for my career as data scientist
 
 * [Credit Card Fraud Detection](https://www.kaggle.com/stevoc/credit-card-fraud-detection)
 * [Customer Segmentation](https://www.kaggle.com/stevoc/customer-segmentation)
+* [Recommender System](https://www.kaggle.com/stevoc/recommender-system)
 
 # Data Viz
 
