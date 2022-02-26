@@ -18,5 +18,5 @@ Portfolio for my career as data scientist
 
 # Data Viz
 
-* [Gross Value Added MX](https://bsteve.shinyapps.io/economia/)
-* [Payroll indicators](https://bsteve.shinyapps.io/we-ai001/)
+* [Interactive Map](https://bsteve.shinyapps.io/economia/)
+* [Animated Graphs](https://bsteve.shinyapps.io/we-ai001/)
