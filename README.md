@@ -14,6 +14,7 @@ Portfolio for my career as data scientist
 * [Credit Card Fraud Detection](https://www.kaggle.com/stevoc/credit-card-fraud-detection)
 * [Customer Segmentation](https://www.kaggle.com/stevoc/customer-segmentation)
 * [Recommender System](https://www.kaggle.com/stevoc/recommender-system)
+* [Credit Card Approvals](https://app.datacamp.com/workspace/w/afe86e80-3b94-49d4-8b75-c79d56ad5eb4)
 
 # Data Viz
 
